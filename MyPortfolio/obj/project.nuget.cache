@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zNvirJCWjOyURFnEh/bdtAfmpsCk8dP9L1ELeK0Y9fP28/9HN586oHwymUf4i4qjb/PiZyBsdgfvysnsX9n34g==",
+  "dgSpecHash": "vfpF6SyaqTzP5izRW6z9p2FqIJ+uLy2MMKUj9CQ0T1I9nkhTcLjdlOgvN+X6Do7gr9KtQ5sDSeIiaF6w/LQ2Eg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\FMN\\Desktop\\MyPortfolio\\MyPortfolio\\MyPortfolio.csproj",
+  "projectFilePath": "D:\\git\\test\\MyPortfolio\\MyPortfolio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FMN\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\FMN\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
